@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /about/
+Allow: /links/
+
+Disallow: /tags/
+Disallow: /search/
+
+Sitemap: https://blog.ghkk.net/sitemap.xml
