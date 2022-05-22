@@ -10,26 +10,8 @@
     
     
     <url>
-        <loc>https://www.cunoe.com/tags/</loc>
-        <lastmod>2021-12-29T03:45:21.208Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://www.cunoe.com/categories/</loc>
-        <lastmod>2021-12-29T03:45:20.996Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://www.cunoe.com/bgImg/</loc>
-        <lastmod>2021-12-29T03:45:20.976Z</lastmod>
+        <lastmod>2022-05-22T12:12:40.849Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -37,8 +19,8 @@
     
     
     <url>
-        <loc>https://www.cunoe.com/about/</loc>
-        <lastmod>2021-12-29T03:45:20.956Z</lastmod>
+        <loc>https://www.cunoe.com/tags/</loc>
+        <lastmod>2021-12-29T03:45:21.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -47,7 +29,25 @@
     
     <url>
         <loc>https://www.cunoe.com/404.html</loc>
-        <lastmod>2021-12-29T03:45:20.936Z</lastmod>
+        <lastmod>2021-12-29T03:45:20.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://www.cunoe.com/about/</loc>
+        <lastmod>2021-12-29T03:45:20.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://www.cunoe.com/categories/</loc>
+        <lastmod>2021-12-29T03:45:20.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
