@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://www.cunoe.com/posts/docker-compose-1/</loc>
+        <lastmod>2022-05-22T05:41:20.461Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://www.cunoe.com/posts/auto-deploy-golang/</loc>
         <lastmod>2022-05-22T05:23:34.076Z</lastmod>
         <changefreq>weekly</changefreq>
